@@ -1,0 +1,12 @@
+{
+  "title": "h5weex-books",
+  "links": {
+    "gitbook": false,
+    "sharing": {
+      "google": true,
+      "facebook": true,
+      "twitter": true,
+      "all": true
+    }
+  }
+}
